@@ -1,1 +1,0 @@
-import{Bt as e,Wt as t,qt as n}from"./useControlled-Dz9FJ57u.js";import{u as r}from"../index-vbuild_version.js";var i=n((n=>{var i=t();Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a=i(r()),o=e();n.default=(0,a.default)((0,o.jsx)(`path`,{d:`M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6zM19 4h-3.5l-1-1h-5l-1 1H5v2h14z`}),`Delete`)}));export{i as t};

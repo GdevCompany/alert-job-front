@@ -1,1 +1,0 @@
-import{Bt as e}from"./useControlled-Dz9FJ57u.js";var t=e(),n=({text:e})=>(0,t.jsx)(`h1`,{className:`title`,children:e});export{n as t};
