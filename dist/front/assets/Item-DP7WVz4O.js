@@ -1,0 +1,1 @@
+import{Kt as e,Yt as t,b as n}from"./useControlled-Dz9FJ57u.js";import{B as r}from"../index-vbuild_version.js";e();var i=r(),a=t(n()),o=(0,i.styled)(a.default)(({theme:e})=>({backgroundColor:e.palette.mode===`dark`?`#1A2027`:`#fff`,...e.typography.body2,padding:e.spacing(.5),textAlign:`center`,color:e.palette.text.secondary}));export{o as t};

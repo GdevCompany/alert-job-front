@@ -1,0 +1,8 @@
+---
+description: Repositoriy alert-job-front
+alwaysApply: true
+---
+
+# alert-job-front
+
+React SPA. `npm i`, `npm run build`. Pages: `src/pages/`, features: `src/modules/`.

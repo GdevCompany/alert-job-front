@@ -1,0 +1,1 @@
+docker build -t rg.gdev.by/alert-job/front:1.0 .
